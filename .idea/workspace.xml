@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af591f8f-76d6-4f69-ab58-1e812ad20d46" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/RealFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examples/Binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examples/Binary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examples/BinaryLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/Examples/BinaryLambda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +91,8 @@
       <option name="presentableId" value="Default" />
       <updated>1708182591124</updated>
       <workItem from="1708182592545" duration="783000" />
-      <workItem from="1708349476796" duration="21000" />
+      <workItem from="1708349476796" duration="1933000" />
+      <workItem from="1708381869498" duration="35000" />
     </task>
     <servers />
   </component>
